@@ -5,6 +5,24 @@
 One of the best features of living and studying in London is that there is **a lot** going on tech-wise. If you like beer || pizza, you're in luck - there is generally something happening at least every other night. These events are a great place to drink pizza and eat beer, and occasionally talk about code. If you don't want to go on your own, post up on Slack - you will usually find someone eager to go. Please feel free to send pull requsts to add to this list - this is only a small selection of the events out there.
 
 
+### Why MeetUps should be a part of your job-search
+
+You're entering tech because you embrace challenges and love to learn. Sure, there will be other reasons to (a devs gotta eat) but you'll be entering a community of people who actually enjoy talking about the jobs outside of their working hours! It's a blessing and a curse, friend. So to be a stand-out-gonna-get-hired-developer, making MeetUps part of your strategy is A Very Good Idea.
+
+Some companies' recruitment strategies are formed entirely around Meetups. They don't advertise roles on the internet, they look to recruit purely from MeetUps because they know they will generally find curious people who love talking about code. In fact, all companies see attending Meetups as a sign of an enthusiastic programmer.
+
+Going to MeetUps
+
+* Will catch the attention of a recruiter if you list the on your CV
+* Will give you something to talk about in your next tech interview that is fresh and won't bore your interviewer
+* Will widen your understanding of tech and career paths available
+* Will vastly improve your chances of job hunting serendipity - meeting someone who can connect you with your next employer! 
+
+
+### Why MeetUps will help your career development as an Apprentice
+
+
+
 - [London Ruby User Group (LRUG)](http://lrug.org/) - If you aren't already attending this regularly, you should be.
 - [Ruby Hacknight](http://www.meetup.com/ruby-hacknight-london/) - Brought to you by the fine folk at Yammer, this is a great place to go and pair with complete strangers. No, not like that.
 - [London Node User Group (LNUG)](http://lnug.org/) - LRUG's weird little cousin. If you are slightly unhinged because you actually quite like Node, you will find others like you here. Lightning talks here have included how to use process.nextTick() to fill the event loop with animal calls, building massively distributed bingo chat systems and turning a room full of wifi enabled laptops into an ad-hoc BitTorrent-like system. You have been warned.
